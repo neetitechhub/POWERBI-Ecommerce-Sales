@@ -1,5 +1,5 @@
 # Ecommerce-Sales
-Ecommerce-Sales project using retail sales data
+Ecommerce-Sales project using retail sales data : This was my second project while I was moving my career towards data analytics.
 
 **Dashboards Insights -**
 
